@@ -1,0 +1,10 @@
+﻿  game.c
+C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\x_o_game\x_o_game\game.c(34,19): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+  C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\x_o_game\x_o_game\game.c(34,19):
+  consider using '%hhd' in the format string
+  
+C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\x_o_game\x_o_game\game.c(36,19): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+  C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\x_o_game\x_o_game\game.c(36,19):
+  consider using '%hhd' in the format string
+  
+  x_o_game.vcxproj -> C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\x_o_game\x64\Debug\x_o_game.exe
